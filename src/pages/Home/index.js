@@ -6,7 +6,10 @@ function Home() {
     return (
         <ProductList>
             <li>
-                <img src="https://images-submarino.b2w.io/produtos/01/00/img/59394/0/59394048_1GG.jpg" alt="Notebook" />
+                <img
+                    src="https://images-submarino.b2w.io/produtos/01/00/img/59394/0/59394048_1GG.jpg"
+                    alt="Notebook"
+                />
                 <strong>Notebook</strong>
                 <span>R$1.299,90</span>
                 <button>
