@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 4
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 2
+    },
+    {
+      "id": 5,
+      "amount": 3
+    },
+    {
+      "id": 6,
+      "amount": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Notebook Dell Inspiron I15-3583-A3XP 8ª Intel Core I5 8GB 1TB 15,6' W10 Preto",
+      "price": 4299.99,
+      "image": "https://images-submarino.b2w.io/produtos/01/00/img1/134544/3/134544353_1GG.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Notebook Lenovo Ideapad S145 AMD Ryzen 7 8GB W10 SSD 256GB 15.6' Prata",
+      "price": 4099.99,
+      "image": "https://images-submarino.b2w.io/produtos/01/00/img/1507408/1/1507408110_1GG.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Notebook Lenovo Ideapad S145 AMD Ryzen 5 8GB 1TB W10 15,6' Prata",
+      "price": 3299.90,
+      "image": "https://images-submarino.b2w.io/produtos/01/00/img/1507968/3/1507968336_1GG.jpg"
+    },
+	{
+      "id": 4,
+      "title": "Notebook Inspiron i15-3583-A30P 8ª Intel Core i7 8GB (AMD Radeon 520 com 2GB) 2TB LED HD 15,6' W10 Preto - Dell",
+      "price": 4387.90,
+      "image": "https://images-submarino.b2w.io/produtos/01/00/img/134385/6/134385671_1GG.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Notebook Dell Inspiron I15-3583-FS1P 8ª Intel Core i5 8GB 256GB SSD 15,6' W10 Preto",
+      "price": 4199.90,
+      "image": "https://images-submarino.b2w.io/produtos/01/00/img/1535234/3/1535234305_1GG.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Notebook Lenovo Ideapad S145 Intel Core I5-8265u 4GB 1TB W10 15.6' Prata + Mochila Targus 15,6' Intellect Plus",
+      "price": 3149.99,
+      "image": "https://images-submarino.b2w.io/produtos/01/00/img7/01/00/item/1692441/7/1692441746_1GG.jpg"
+    }
+  ]
+}
